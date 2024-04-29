@@ -1,0 +1,26 @@
+{
+    "nama_toko": "Toko Buku konoha",
+    "pengarang": "Masashi Kishimoto",
+    "alamat": "Jl. Raya No. 123",
+    "koleksi_buku": [
+      {
+        "judul": "Pemrograman Dasar",
+        "pengarang": "saske",
+        "tahun_terbit": 2020,
+        "harga": 150000
+      },
+      {
+        "judul": "Pemrograman Lanjutan",
+        "pengarang": "sakura",
+        "tahun_terbit": 2021,
+        "harga": 200000
+      },
+      {
+        "judul": "HTML & CSS",
+        "pengarang": "narto",
+        "tahun_terbit": 2019,
+        "harga": 120000
+      }
+    ]
+  }
+  
